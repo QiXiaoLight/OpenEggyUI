@@ -8,80 +8,64 @@
 
 [简体中文](README.md) | **English**
 
-> **License Notice**  
-> - Code licensed under [GNU GPLv3](LICENSE)
-> - Artwork licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) International License
-> - Dual-license system has passed [GPL compatibility review](https://www.gnu.org/licenses/license-list.html#cc-by-nc-sa)
- 
-> **OpenEggyUI Project Archive Notice**<br>
-> The OpenEggyUI project was officially archived on March 28, 2026. On March 21, 2026, development began on the [EggyUI-SE](https://github.com/QiXiaoLight/EggyUI-SE) project, positioned as a **“core customization pack that does not modify system files.”** It is deployed as a standalone installer, allowing users to select which customization components to install as needed. In the future, a dedicated customization tools website will be established to provide navigation for downloading additional components—if users find the built-in components insufficient, they can supplement them from the cloud. Windows customization components—open source or closed source—are countless. Given this context, OpenEggyUI no longer needs to exist independently. Its code and design will be merged into EggyUI-SE, and future development will focus exclusively on components tailored for EggyUI-SE. Desktop customization is a complex field, involving not only technical implementation but also user experience and expectations. We have never claimed to offer a “perfect” product; we can only explore, adjust, and improve based on feedback and real-world usage. We ask for your understanding of this decision. We believe EggyUI-SE will deliver a safer and more stable customization experience.
+> **Project Status: Archived**
+>
+> OpenEggyUI was officially archived on March 28, 2026, and is no longer under any development or maintenance. This repository is preserved as a historical archive.
+>
+> **The EggyUI project has been rebased and resumed development**: On April 11, 2026, EggyUI was rebased on EggyUI-SE and taken over by a new development team. The original repository has been archived as [EggyUI-Legacy](https://github.com/SYSTEM-LIGHT/EggyUI-Legacy), with the main name inherited by the active security-focused customization branch. For a maintained version, please visit the new [EggyUI](https://github.com/QiXiaoLight/EggyUI) repository.
 
-> Inheriting the spirit, reinventing the form.
+---
+
+## 📦 Repository Ownership Change
+
+The original owner of this repository was **SYSTEM-LIGHT**. After the project was archived, relevant assets have been gradually migrated to the [QiXiaoLight](https://github.com/QiXiaoLight) account. Development and future updates of the new EggyUI will be concentrated in the new repository under the QiXiaoLight account.
+
+---
 
 ## 🚀 Project Introduction
 
-OpenEggyUI is a collection of *Eggy Party*-style desktop customization components personally developed by **SYSTEM-LIGHT**. It originates from the **officially archived and completely discontinued EggyUI project**, but has undergone comprehensive refactoring and quality improvements.
+OpenEggyUI was a collection of *Eggy Party*-style desktop customization components personally developed by **SYSTEM-LIGHT**. It originated from the officially archived EggyUI project and underwent comprehensive refactoring and quality improvements.
 
-**Project Positioning**: A high-quality, modular, and irregularly updated personal open-source customization project.
+**Project Positioning**: A high-quality, modular, personal open-source customization project.
 
 ## 📜 Project Origin & Development Codename
 
-OpenEggyUI was not created from scratch. Its development codename **"Eggix"** carries a piece of community "unofficial history":
+OpenEggyUI's development codename **"Eggix"** carries a piece of community "unofficial history":
 
-> According to the (now edited) Bulu entry on the *Eggy Party* Wiki:
-> "The founder of Eggysoft, at Baker Lab, developed the **Eggix operating system**, which included the EggyUI desktop environment. He was called 'the Bill Gates of Eggy Island'; he open-sourced all the algorithms and OS kernel he developed on **EggitHub**..."
-
-The project's development codename pays homage to this imaginative piece of community creation. If EggyUI was the unrealized desktop environment, then **OpenEggyUI (Development Codename: Eggix) aims to be the tangible component set that builds that fantasy world**.
+> According to the (now edited) *Eggy Party* Wiki entry for Bulu:
+> "The founder of Eggysoft, at Baker Lab, developed the **Eggix operating system**, which included the EggyUI desktop environment. He was called 'the Bill Gates of Eggy Island'..."
 
 ## 🛠️ Why the OpenEggyUI Project Was Started
 
-When the EggyUI project's chat groups fell completely silent and its developers shifted their focus to game screenshots and hardware showcases, its life was essentially over. EggyUI's demise was not accidental, but a tragedy predestined by fatal technical debt and collapsed team governance.
+The fall of EggyUI was a tragedy caused by technical debt and failed team governance:
 
-**The Abyss of Technical Debt**
-- EggyUI's early extensive use of Chinese programming language Easy Language led to poor performance, compatibility issues, and maintenance difficulties.
-- Core components had inherent flaws, like the calculator that computed "1-1=-2" and the frequently crashing developer center.
-- The architectural lock-in effect made transitioning to modern technology stacks extremely costly.
+- **Technical Debt**: Heavy use of Easy Language in early stages led to poor performance, compatibility issues, and maintenance difficulties
+- **Governance Collapse**: Lack of effective decision-making mechanisms; discussions often devolved into emotional venting; unclear role definitions
+- **Architectural Lock-in**: The cost of transitioning to modern technology stacks became prohibitively high
 
-**The Collapse of Governance**
-- Fell into unrealistic fantasies of "cooperating with the official company," draining precious development enthusiasm.
-- Lacked effective decision-making mechanisms; discussions often devolved into personal emotional outbursts.
-- Unclear role definitions and dispersed responsibility ultimately led to the dissipation of collective will.
-
-**The Mission of OpenEggyUI**
-
-The establishment of OpenEggyUI is a necessary act of technical self-rescue and social reconstruction:
-- **Technical Reconstruction**: Abandoning Easy Language, building a modern architecture based on C# and Python.
-- **Governance Reconstruction**: Adopting a clean model of "individual maintenance led, supplemented by community contributions."
-- **Narrative Reconstruction**: Inheriting EggyUI's aesthetic ideals, but completely severing its failed technical paths and management models.
-
-This is not a betrayal of EggyUI, but the most thorough salvation of its original dream.
+OpenEggyUI was established as a necessary act of technical self-rescue and social reconstruction: abandoning Easy Language, adopting a modern architecture, and operating under a clean model of "individual maintenance led, supplemented by community contributions."
 
 ## ✨ Relationship with EggyUI
 
-*   **Spiritual Successor**: OpenEggyUI inherits EggyUI's aesthetic philosophy, aiming to bring an authentic *Eggy Party* style experience to the Windows desktop.
-*   **Qualitative Leap**: All components have been redesigned and redeveloped. Compared to EggyUI, there are significant improvements in code quality, runtime efficiency, visual detail, and system compatibility.
-*   **Individually Maintained**: Unlike the organizationally chaotic later stages of EggyUI, OpenEggyUI is independently maintained by developer **SYSTEM-LIGHT**, ensuring purity in the technical roadmap and efficiency in decision-making.
+- **Spiritual Successor**: Inherited EggyUI's aesthetic philosophy
+- **Qualitative Leap**: Significant improvements in code quality, runtime efficiency, and visual detail
+- **Individually Maintained**: Independently maintained by SYSTEM-LIGHT, ensuring a pure technical roadmap
 
 ## ⚙️ Development & Update Model
 
-*   **Irregular Updates**: This project is driven by the developer's personal interest and available time, with **no fixed release schedule**. Updates might be frequent or have long intervals.
-*   **Modular Approach**: Components will be released as independent modules, allowing users to choose according to their needs and avoid unnecessary system burden.
-*   **Open Source & Transparency**: All code is open source on GitHub/Gitee, following non-commercial use licenses.
+- **Irregular Updates**: Driven by the developer's personal interest and available time
+- **Modular Approach**: Components released as independent modules
+- **Open Source & Transparent**: All code follows non-commercial use licenses
 
 ## 🔒 Copyright & Disclaimer
 
-*   **Fan Creation**: This project is a fan-made, secondary creation in the style of *Eggy Party*. It is non-profit and unofficial.
-*   **Originality & Compliance**: All visual elements are either redrawn or sourced from legal channels. No game asset extraction materials are used.
-*   **Trademark Attribution**:
-    *   *Eggy Party* is a registered trademark of NetEase Games.
-    *   Windows is a registered trademark of Microsoft Corporation.
-    *   The OpenEggyUI project is not affiliated with or sponsored by NetEase or Microsoft.
-*   **Usage Risk**: Users assume all risks for any system stability issues that may arise from installing or using this project's components.
+- Fan-made secondary creation, non-official, non-commercial use
+- All visual elements either redrawn or sourced from legal channels
+- *Eggy Party* is a registered trademark of NetEase Games; Windows is a registered trademark of Microsoft Corporation
+- This project is not affiliated with or sponsored by NetEase or Microsoft
 
 ## 🎯 Conclusion
 
-The story of EggyUI has officially ended, but the exploration of its spirit continues under the name **OpenEggyUI** (Development Codename: Eggix).
+OpenEggyUI has completed its historical mission as a chapter in the exploration of EggyUI's spirit. The project is now archived, but its code and lessons remain as a legacy. EggyUI has been rebased and resumed development by a new team, and will continue to carry forward the *Eggy Party* visual aesthetic in a safer, more stable manner.
 
-This is a new beginning—more focused, higher quality, and also more casual.
-
-—— SYSTEM-LIGHT
+—— SYSTEM-LIGHT (Archived) / QiXiaoLight (Successor)
