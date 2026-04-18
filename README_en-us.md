@@ -13,6 +13,8 @@
 > OpenEggyUI was officially archived on March 28, 2026, and is no longer under any development or maintenance. This repository is preserved as a historical archive.
 >
 > **The EggyUI project has been rebased and resumed development**: On April 11, 2026, EggyUI was rebased on EggyUI-SE and taken over by a new development team. The original repository has been archived as [EggyUI-Legacy](https://github.com/SYSTEM-LIGHT/EggyUI-Legacy), with the main name inherited by the active security-focused customization branch. For a maintained version, please visit the new [EggyUI](https://github.com/QiXiaoLight/EggyUI) repository.
+>
+> **AvatarMaker has been migrated**: On April 18, 2026, the avatar maker AvatarMaker, an OpenEggyUI auxiliary component, was migrated to a separate repository. If you are interested in this component, you can go to the [new repository](https://github.com/QiXiaoLight/AvatarMaker) to take a look.
 
 ---
 
@@ -68,4 +70,4 @@ OpenEggyUI was established as a necessary act of technical self-rescue and socia
 
 OpenEggyUI has completed its historical mission as a chapter in the exploration of EggyUI's spirit. The project is now archived, but its code and lessons remain as a legacy. EggyUI has been rebased and resumed development by a new team, and will continue to carry forward the *Eggy Party* visual aesthetic in a safer, more stable manner.
 
-—— SYSTEM-LIGHT (Archived) / QiXiaoLight (Successor)
+—— SYSTEM-LIGHT

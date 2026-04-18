@@ -13,6 +13,8 @@
 > OpenEggyUI 项目已于 2026 年 3 月 28 日正式归档，不再进行任何开发与维护。本仓库作为历史存档保留。
 >
 > **EggyUI 项目已变基恢复开发**：2026 年 4 月 11 日，EggyUI 以 EggyUI-SE 为基础进行变基，由新开发团队接手。原仓库已归档为 [EggyUI-Legacy](https://github.com/SYSTEM-LIGHT/EggyUI-Legacy)，主名称由活跃的安全美化分支继承。如需使用持续维护的版本，请访问新版 [EggyUI](https://github.com/QiXiaoLight/EggyUI) 仓库。
+>
+> **AvatarMaker 已迁移**：2026 年 4 月 18 日，OpenEggyUI 辅助组件——头像制作器 AvatarMaker 被迁移到一个单独的仓库。如果你对这个组件感兴趣，可以去[新的仓库](https://github.com/QiXiaoLight/AvatarMaker)看看。
 
 ---
 
